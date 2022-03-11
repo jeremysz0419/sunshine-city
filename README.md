@@ -1,5 +1,9 @@
 # sunshine-city
 
+## Sunshine Hours & Healthy Living
+
+Sunlight plays a huge role for our planet. Giving life to plants which in turn, gives us the necessities to survive as well. Productivity is higher during the day and going outside is proven to promote better quality of health. As the world becomes more of a concrete jungle, we wanted to see how the amount of sun still affects everything around us.
+
 ## Data Source
 
 Our data source comes from a compilation by the Healthy Lifestyle Cities Report 2021 by Lenstore, a contact lens retailer located in the United Kingdom. They collected data for 44 cities around the world across 10 weighted metrics to give each city a total score out of 100.
