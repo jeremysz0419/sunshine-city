@@ -1,5 +1,3 @@
-
-
 # sunshine-city
 
 ## Sunshine Hours & Healthy Living
@@ -41,4 +39,3 @@ Does the amount of sun a city gets correlate to having a “healthy” lifestyle
 - Does sunlight or pollution have a greater effect on the life expectancy of an city’s inhabitants? 
 - How does sunlight play into the number of take out places in a city and does it significantly correlate with obesity levels? 
 - Which cities have the highest happiness scores and what are the most statistically significant factors?
-
