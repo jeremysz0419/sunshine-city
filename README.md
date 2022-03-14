@@ -1,4 +1,4 @@
-## E= Milk.Coffee^2
+## E=Milk.Coffee^2
 
 ## Energy Consumption
 
@@ -26,9 +26,18 @@ https://population.un.org/wpp/
 
 ## Our Questions
 
-Does the amount of sun a city gets correlate to having a “healthy” lifestyle?
+Has there been an increase in energy production throughout the years?
 
-- How does the activity level of a person in a city with little sunlight compare to a city that gets much more sunlight by the hour?
-- Does less sunlight affect obesity levels and outdoor activities? How does that play into the happiness levels of a city? 
-- Does sunlight or pollution have a greater effect on the life expectancy of an city’s inhabitants? 
-- How does sunlight play into the number of take out places in a city and does it significantly correlate with obesity levels?
+Does the rise in population affect each country’s electricity consumption?
+
+Is there a decrease in fossil fuel consumption as more forms of energy are being used?
+
+ - How much has solar energy developed over the years in consumption level?
+ - How much has wind energy developed over the years in consumption level?
+ - How much has hydro energy developed over the years in consumption level?
+ - Which countries have developed the most towards green energy?
+ - Which countries are still using fossil fuels at an increasing amount more than green energy?
+
+Is GDP affected by energy consumption?
+
+ - Does the country with the highest GDP correlate to the country with the highest consumption rate?
