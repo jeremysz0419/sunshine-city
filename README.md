@@ -1,4 +1,4 @@
-## E=Milk.Coffee^2
+# E=Milk.Coffee^2
 
 ## Energy Consumption
 
