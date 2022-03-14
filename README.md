@@ -1,8 +1,8 @@
-# sunshine-city
+# 
 
-## Sunshine Hours & Healthy Living
+## Energy Consumption
 
-Sunlight plays a huge role for our planet. Giving life to plants which in turn, gives us the necessities to survive as well. Productivity is higher during the day and going outside is proven to promote better quality of health. As the world becomes more of a concrete jungle, we wanted to see how the amount of sun still affects everything around us.
+Technology advances as the world becomes more of a concrete jungle. Energy consumption rises with every given year. We wanted to see what values have had any direct correlation with that rise in consumption. Values like, population per country, to comparisons between the growth of fossil, wind, solar, and water fuels. 
 
 
 ## Data Source
