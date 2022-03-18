@@ -1,44 +1,47 @@
+# E=Milk.Coffee^2
 
+## Energy Consumption
 
-# sunshine-city
+Technology advances as the world becomes more of a concrete jungle. Energy consumption rises with every given year. We wanted to see what values have had any direct correlation with that rise in consumption. Values like, population per country, to comparisons between the growth of fossil, wind, solar, and water fuels. 
 
-## Sunshine Hours & Healthy Living
-
-Sunlight plays a huge role for our planet. Giving life to plants which in turn, gives us the necessities to survive as well. Productivity is higher during the day and going outside is proven to promote better quality of health. As the world becomes more of a concrete jungle, we wanted to see how the amount of sun still affects everything around us.
 
 ## Data Source
 
-Our data source comes from a compilation by the Healthy Lifestyle Cities Report 2021 by Lenstore, a contact lens retailer located in the United Kingdom. They collected data for 44 cities around the world across 10 weighted metrics to give each city a total score out of 100.
+Our data comes from “Our World by Data” whose main goal is to publish the “research and data to make progress against the world’s largest problems”. They update regularly and include data on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics of every country in the world.
+https://ourworldindata.org/
 
-The data source’s data sources are:
 
-[Global Finance - World's Best Cities To Live In 2020](https://www.gfmag.com/global-data/non-economic-data/best-cities-to-live)
+Energy consumption (primary energy, energy mix and energy intensity):
 
-[Our World In Data - Obesity](https://ourworldindata.org/obesity)
+https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+https://www.theshiftdataportal.org/energy
 
-[Happy Planet Index](http://happyplanetindex.org/countries)
+Electricity consumption (electricity consumption, and electricity mix): 
 
-[Wikipedia - List of Cities by Sunshine Duration](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)
+https://ember.shinyapps.io/GlobalElectricityDashboard/                                           
+https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv
 
-[Numbeo - Pollution Index by City 2022](https://www.numbeo.com/pollution/rankings.jsp)
 
-[World Happiness Report](https://worldhappiness.report)
+Calculate per capita figures: 
 
-[Numbeo - Cost of Living](https://www.numbeo.com/cost-of-living)
+https://www.gapminder.org/                                                                                                                          
+https://population.un.org/wpp/
 
-[World Population Review - Average Work Week by Country 2022](https://worldpopulationreview.com/country-rankings/average-work-week-by-country)
-
-[Organisation for Economic Co-operation and Development - Hours Worked](https://data.oecd.org/emp/hours-worked.htm)
-
-[Trip Advisor](https://www.tripadvisor.co.uk)
 
 ## Our Questions
 
-Does the amount of sun a city gets correlate to having a “healthy” lifestyle?
+Has there been an increase in energy production throughout the years?
 
-- How does the activity level of a person in a city with little sunlight compare to a city that gets much more sunlight by the hour?
-- Does less sunlight affect obesity levels and outdoor activities? How does that play into the happiness levels of a city? 
-- Does sunlight or pollution have a greater effect on the life expectancy of an city’s inhabitants? 
-- How does sunlight play into the number of take out places in a city and does it significantly correlate with obesity levels? 
-- Which cities have the highest happiness scores and what are the most statistically significant factors?
+Does the rise in population affect each country’s electricity consumption?
 
+Is there a decrease in fossil fuel consumption as more forms of energy are being used?
+
+ - How much has solar energy developed over the years in consumption level?
+ - How much has wind energy developed over the years in consumption level?
+ - How much has hydro energy developed over the years in consumption level?
+ - Which countries have developed the most towards green energy?
+ - Which countries are still using fossil fuels at an increasing amount more than green energy?
+
+Is GDP affected by energy consumption?
+
+ - Does the country with the highest GDP correlate to the country with the highest consumption rate?
