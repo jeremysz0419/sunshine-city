@@ -54,6 +54,12 @@ The data has not yet been split into training and testing sets. The next step is
 
 Unsupervised learning was chosen as it allowed the entire dataset to be used. The advantage of this is that it allowed us to compare multiple features to find patterns. The dataset we are working with contains too many features to narrow down to just two. One disadvantage is that, while we can make classifications, the machine learning model cannot make predictions into the future.
 
+**Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)**
+
+**Description of how they have trained the model thus far, and any additional training that will take place**
+
+**Description of current accuracy score**
+
 ### Dashboards
 
 [Tableau Dashboard: Energy Consumption vs Population/GDP](https://us-west-2b.online.tableau.com/t/rescueagency/views/WorldEnergyDashboard/DashboardConsumptionvsPopulationGDP?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
