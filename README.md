@@ -34,7 +34,7 @@ By analyzing data and using machine learning, we are able to predict and calcula
 
 We did our data exploration and cleaning with using Python and Pandas in Jupyter Notebook. After cleaning, we imported our tables into a database.
 
-**INSERT ERD IMAGE AND SCHEMA CODE HERE**
+![ERD](https://github.com/jeremysz0419/sunshine-city/blob/main/Resources/SQL/ERD.png?raw=true)
 
 ### Machine Learning
 
