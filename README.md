@@ -8,11 +8,17 @@ Technology advances as the world becomes more of a concrete jungle. Energy consu
 
 Our data comes from [“Our World by Data”](https://ourworldindata.org/) whose main goal is to publish the “research and data to make progress against the world’s largest problems”. They update regularly and include data on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics of every country in the world.
 
-**Energy consumption (primary energy, energy mix and energy intensity):** [BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html) | [SHIFT Data Portal](https://www.theshiftdataportal.org/energy)
+**Energy consumption (primary energy, energy mix and energy intensity):** 
 
-**Electricity consumption (electricity consumption, and electricity mix):** [BP Statistical Review of World Energy](https://ember.shinyapps.io/GlobalElectricityDashboard/) | [EMBER – Global Electricity](https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv)
+[BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html) | [SHIFT Data Portal](https://www.theshiftdataportal.org/energy)
 
-**Population:** [Gapminder](http://Gapminder) | [UN World Population Prospects](https://population.un.org/wpp/)
+**Electricity consumption (electricity consumption, and electricity mix):** 
+
+[BP Statistical Review of World Energy](https://ember.shinyapps.io/GlobalElectricityDashboard/) | [EMBER – Global Electricity](https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv)
+
+**Population:** 
+
+[Gapminder](http://Gapminder) | [UN World Population Prospects](https://population.un.org/wpp/)
 
 ## Our Questions
 
