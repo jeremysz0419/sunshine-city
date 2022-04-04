@@ -1,20 +1,5 @@
 # E=Milk.Coffee^2
 
-## Team 
-**Reese Coulter** | Machine Learning
-
-**Jeremy Huang** | Data Cleaning & Database
-
-**Don Le** | Support
-
-**Shannin Nguyen** | Visualizations: Dashboard & Presentation
-
-[Presentation (Google Slides)](https://docs.google.com/presentation/d/1uGr3xCaAL2nob9lxsIIZrufKP7x608zHX9uSRoTS15k/edit?usp=sharing)
-
-[Tableau Dashboard: Energy Consumption vs Population/GDP](https://us-west-2b.online.tableau.com/t/rescueagency/views/WorldEnergyDashboard/DashboardConsumptionvsPopulationGDP?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
-
-[Tableau Dashboard: Energy Production & Consumption](https://us-west-2b.online.tableau.com/t/rescueagency/views/WorldEnergyDashboard/DashboardProductionConsumption?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
-
 ## Energy Consumption
 
 Technology advances as the world becomes more of a concrete jungle. Energy consumption rises with every given year. We wanted to see what values have had any direct correlation with that rise in consumption. Values like, population per country, to comparisons between the growth of fossil, wind, solar, and water fuels. 
@@ -48,3 +33,18 @@ Our data comes from [“Our World by Data”](https://ourworldindata.org/) whose
 ## Project Summary
 
 By analzing data and using machine learning, we are able to predict and calculate where society is headed in terms of usage of energy. We used our sources to create tables and charts through Python and Jupyter Notebook. Filtering out all the points we didn't need, to make things more coherant for our program. With this, we are able to answer all the questions we had about the advancements in resources for energy that the world uses. We've also created a slide presentation to gather our information and make it more understandable for the general public to see. 
+
+## Team 
+**Reese Coulter** | Machine Learning
+
+**Jeremy Huang** | Data Cleaning & Database
+
+**Don Le** | Support
+
+**Shannin Nguyen** | Visualizations: Dashboard & Presentation
+
+[Presentation (Google Slides)](https://docs.google.com/presentation/d/1uGr3xCaAL2nob9lxsIIZrufKP7x608zHX9uSRoTS15k/edit?usp=sharing)
+
+[Tableau Dashboard: Energy Consumption vs Population/GDP](https://us-west-2b.online.tableau.com/t/rescueagency/views/WorldEnergyDashboard/DashboardConsumptionvsPopulationGDP?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+
+[Tableau Dashboard: Energy Production & Consumption](https://us-west-2b.online.tableau.com/t/rescueagency/views/WorldEnergyDashboard/DashboardProductionConsumption?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
