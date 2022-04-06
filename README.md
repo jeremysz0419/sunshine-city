@@ -62,9 +62,9 @@ Unsupervised learning was chosen as it allowed the entire dataset to be used. Th
 
 ### Dashboards
 
-[Tableau Dashboard: Energy Consumption vs Population/GDP](https://us-west-2b.online.tableau.com/t/rescueagency/views/WorldEnergyDashboard/DashboardConsumptionvsPopulationGDP?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+[Tableau Dashboard: Energy Consumption vs Population/GDP](https://public.tableau.com/app/profile/shannin/viz/Bootcamp_Tableau_Workbook/DashboardProductionConsumption)
 
-[Tableau Dashboard: Energy Production & Consumption](https://us-west-2b.online.tableau.com/t/rescueagency/views/WorldEnergyDashboard/DashboardProductionConsumption?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+[Tableau Dashboard: Energy Production & Consumption](https://public.tableau.com/app/profile/shannin/viz/Bootcamp_Population_GDP/DashboardConsumptionvsPopulationGDP)
 
 ## Team 
 **Reese Coulter** | Machine Learning
