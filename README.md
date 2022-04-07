@@ -24,7 +24,8 @@ Our data comes from [“Our World by Data”](https://ourworldindata.org/) whose
 
 - Is there a correlation between energy consumption and population or GDP?
 - Has there been a decrease in fossil fuel consumption as more forms of energy are being used?
-- When will our energy consumption exceed our energy production?
+- Which countries have have been developing towards green energy?
+- Can we predict future energy consumption based on this data?
 
 ## Project Summary
 
