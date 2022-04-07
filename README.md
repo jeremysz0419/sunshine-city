@@ -41,31 +41,31 @@ We did our data exploration and cleaning with using Python and Pandas in Jupyter
 
 **Description of preliminary data preprocessing**
 
-We applied feature reduction through PCA after scaling the data. This helped make the values of each of the variables a bit closer to one another. Every year before 1985 was removed as years before then did not have data and would skew the data
+- We applied feature reduction through PCA after scaling the data. This helped make the values of each of the variables a bit closer to one another. Every year before 1985 was removed as years before then did not have data and would skew the data
 
 **Description of preliminary feature engineering and preliminary feature selection, including the decision-making process**
 
-Population, gdp, and electricity generation (for fossil fuels, renewables, and a sum of both) were chosen with the idea being that these features likely had the largest impact on one another. Country and year were also chosen in order to make better sense of the data and categorizations by the machine learning model.
+- Population, gdp, and electricity generation (for fossil fuels, renewables, and a sum of both) were chosen with the idea being that these features likely had the largest impact on one another. Country and year were also chosen in order to make better sense of the data and categorizations by the machine learning model.
 
 **Description of how data was split into training and testing sets**
 
-The data has not been split into training and testing sets. The next step would be to possibly create a supervised learning model that implements these steps.
+- The data has not been split into training and testing sets. The next step would be to possibly create a supervised learning model that implements these steps.
 
 **Explanation of model choice, including limitations and benefits**
 
-Unsupervised learning was chosen as it allowed the entire dataset to be used. The advantage of this is that it allowed us to compare multiple features to find patterns. The dataset we are working with contains too many features to narrow down to just two. One disadvantage is that, while we can make classifications, the machine learning model cannot make predictions into the future.
+- Unsupervised learning was chosen as it allowed the entire dataset to be used. The advantage of this is that it allowed us to compare multiple features to find patterns. The dataset we are working with contains too many features to narrow down to just two. One disadvantage is that, while we can make classifications, the machine learning model cannot make predictions into the future.
 
 **Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)**
 
-No change in model choice
+- No change in model choice
 
 **Description of how they have trained the model thus far, and any additional training that will take place**
 
-The model was trained on standardized data containing the years, electricity from fossil fuels, electricity from renewables, gdp, and population. Some data was missing in years before 1985 and after 2019, so further training would include data that could fill in those gaps.
+- The model was trained on standardized data containing the years, electricity from fossil fuels, electricity from renewables, gdp, and population. Some data was missing in years before 1985 and after 2019, so further training would include data that could fill in those gaps.
 
 **Description of current accuracy score**
 
-N/A
+- N/A
 
 ### Dashboards
 
