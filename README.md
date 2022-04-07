@@ -48,7 +48,7 @@ Population, gdp, and electricity generation (for fossil fuels, renewables, and a
 
 **Description of how data was split into training and testing sets**
 
-The data has not yet been split into training and testing sets. The next step is to possibly create a supervised learning model that implements these steps.
+The data has not been split into training and testing sets. The next step would be to possibly create a supervised learning model that implements these steps.
 
 **Explanation of model choice, including limitations and benefits**
 
@@ -56,9 +56,13 @@ Unsupervised learning was chosen as it allowed the entire dataset to be used. Th
 
 **Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)**
 
+No change in model choice
+
 **Description of how they have trained the model thus far, and any additional training that will take place**
+The model was trained on standardized data containing the years, electricity from fossil fuels, electricity from renewables, gdp, and population. Some data was missing in years before 1985 and after 2019, so further training would include data that could fill in those gaps.
 
 **Description of current accuracy score**
+N/A
 
 ### Dashboards
 
