@@ -59,9 +59,11 @@ Unsupervised learning was chosen as it allowed the entire dataset to be used. Th
 No change in model choice
 
 **Description of how they have trained the model thus far, and any additional training that will take place**
+
 The model was trained on standardized data containing the years, electricity from fossil fuels, electricity from renewables, gdp, and population. Some data was missing in years before 1985 and after 2019, so further training would include data that could fill in those gaps.
 
 **Description of current accuracy score**
+
 N/A
 
 ### Dashboards
@@ -69,6 +71,8 @@ N/A
 [Tableau Dashboard: Energy Consumption vs Population/GDP](https://public.tableau.com/app/profile/shannin/viz/Bootcamp_Population_GDP/DashboardConsumptionvsPopulationGDP)
 
 [Tableau Dashboard: Energy Production & Consumption](https://public.tableau.com/app/profile/shannin/viz/Bootcamp_Tableau_Workbook/DashboardProductionConsumption)
+
+[Tableau Dashboard: Fossil Fuel vs Renewable Consumption](https://public.tableau.com/app/profile/shannin/viz/Consumption_Fossil_Renew/Dashboard4)
 
 ## Team 
 **Reese Coulter** | Machine Learning
